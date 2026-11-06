@@ -1,0 +1,9 @@
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/CMakeFiles/matrix_core.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/CMakeFiles/matrix_app.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/CMakeFiles/test.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/CMakeFiles/edit_cache.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/CMakeFiles/rebuild_cache.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/tests/CMakeFiles/test_matrix.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/tests/CMakeFiles/test.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/tests/CMakeFiles/edit_cache.dir
+/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/tests/CMakeFiles/rebuild_cache.dir

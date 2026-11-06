@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/cmake_install.cmake",
+		"/home/nigelvoid/projects/CPP_PROJECTS/LAB_3/matrix_calculator/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

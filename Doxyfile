@@ -1,0 +1,16 @@
+PROJECT_NAME           = "Matrix Calculator"
+PROJECT_BRIEF          = "Калькулятор матриц на C++17 (лаб. работа 3)"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = include src
+RECURSIVE              = YES
+FILE_PATTERNS          = *.h *.cpp
+EXTRACT_ALL            = YES
+EXTRACT_STATIC         = YES
+GENERATE_LATEX         = NO
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+SOURCE_BROWSER         = YES
+LANGUAGE               = Russian
